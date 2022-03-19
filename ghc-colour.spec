@@ -6,7 +6,7 @@
 Summary:	A model for human colour/color perception
 Name:		ghc-%{pkgname}
 Version:	2.3.5
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/colour
